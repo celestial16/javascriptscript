@@ -1,2 +1,2 @@
-# javascriptscript
-lolol
+# javascript-game
+lol
